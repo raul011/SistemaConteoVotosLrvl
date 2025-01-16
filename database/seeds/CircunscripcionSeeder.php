@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Database\Seeder;
-use App\Core\Circunscripcion;
+use App\Core\Models\Circunscripcion;
 class CircunscripcionSeeder extends Seeder
 {
     /**
